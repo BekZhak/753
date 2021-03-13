@@ -1,0 +1,18 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "This EndTerm assignment was completed by Bek Zhaksybay. I have watched videos of the previous lessons to write this code. So, it can display pages when certain actions are performed.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bek Zhaksybay",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "NODE APP.JS"
+  },
+  "keywords": [
+    "Localhost"
+  ]
+}
